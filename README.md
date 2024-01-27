@@ -1,3 +1,4 @@
+[![MasterHead](https://www.canva.com/design/DAF7EK3uVdg/view)]
 <h1 align="center">Hi 👋, I'm Om Jadav</h1>
 <h3 align="center">A passionate MERN Stack Developer</h3>
 
