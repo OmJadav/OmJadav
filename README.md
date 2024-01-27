@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Om Jadav</h1>
 <h3 align="center">A passionate MERN Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omjadav&label=Profile%20views&color=0e75b6&style=flat" alt="omjadav" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omjadav&label=Profile%20views&color=42A328&style=flat" alt="omjadav" /> </p>
 
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif"/>
 
