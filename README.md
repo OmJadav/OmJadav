@@ -13,7 +13,7 @@
 
 - ⚒️Simple CRUD operations [CRUD-MERN](https://crud-mern-plum.vercel.app/)
 
-- 👨‍💻 All of my Repositories are available at [https://github.com/OmJadav?tab=repositories](https://github.com/OmJadav?tab=repositories)
+- 👨‍💻 All of my Repositories are available at [GitHub Repo](https://github.com/OmJadav?tab=repositories)
 
 - 📫 How to reach me **omjadav04@gmail.com**
 
