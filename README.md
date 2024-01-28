@@ -12,7 +12,7 @@
 
 - 🔭Hotel Booking Web App using MERN,Stripe [WanderStay](https://wander-stay-seven.vercel.app/)
 
-- ⚒️Simple CRUD operations [CRUD-MERN](https://crud-mern-plum.vercel.app/)
+- ⚒️Simple CRUD operations [CRUD-MERN](https://crud-mern-pi.vercel.app/)
 
 - 👨‍💻 All of my Repositories are available at [GitHub Repo](https://github.com/OmJadav?tab=repositories)
 
