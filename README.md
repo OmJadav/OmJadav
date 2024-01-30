@@ -1,4 +1,4 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+<div><img height="200" width="100%" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/></div>
 <h1 align="center">Hi 👋, I'm Om Jadav</h1>
 <h3 align="center">A passionate MERN Stack Developer</h3>
 
