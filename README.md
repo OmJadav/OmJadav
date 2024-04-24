@@ -6,7 +6,7 @@
 
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif"/>
 
-- 🔭 I’m currently working on **Ecommerce Web App using MERN**
+- 🔭 I’m currently working on **Role based User management system**
 
 - 🌱 I’m currently learning **Java DSA**
 
