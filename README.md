@@ -6,9 +6,11 @@
 
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif"/>
 
-- 🔭 I’m currently working on **Role based User management system**
-
 - 🌱 I’m currently learning **Java DSA**
+
+- 🛒 ecommerce web app [GadgetHub](https://ecommerce-app-sage-ten.vercel.app/)
+
+- 💼 Job portal web app [CareerLink](https://careerlink-seven.vercel.app/)
 
 - 🔭Hotel Booking Web App using MERN,Stripe [WanderStay](https://wander-stay-seven.vercel.app/)
 
