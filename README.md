@@ -21,11 +21,6 @@
 
 - 📫 How to reach me **omjadav04@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/omjadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omjadav" height="30" width="40" /></a>
-<a href="https://instagram.com/_om.04__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_om.04__" height="30" width="40" /></a>
-</p>
 
 ## Tech Stack ⚒️
 
@@ -37,6 +32,12 @@
 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 <br><br>
+
+## Connect with me :
+<p align="left">
+<a href="https://linkedin.com/in/omjadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omjadav" height="30" width="40" /></a>
+<a href="https://instagram.com/_om.04__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_om.04__" height="30" width="40" /></a>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omjadav&show_icons=true&locale=en&layout=compact" alt="omjadav" /></p>
 
