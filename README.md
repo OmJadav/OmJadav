@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omjadav&label=Profile%20views&color=42A328&style=flat" alt="omjadav" /> </p>
 
-<img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif"/>
+<!-- <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif"/> -->
 
 - 🌱 I’m currently learning **Java DSA**
 
