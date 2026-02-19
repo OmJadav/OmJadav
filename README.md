@@ -1,7 +1,7 @@
 <!-- ![MasterHead](https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif)-->
 <h1 align="center">Hi 👋, I'm Om Jadav</h1>
 
-![Typing words](https://readme-typing-svg.herokuapp.com?font=Roboto&color=4DA234&size=25&lines=Full+stack+developer;Mern+stack+developer;Passionate+about+Programming)
+![Typing words](https://readme-typing-svg.herokuapp.com?font=Roboto&color=4DA234&size=25&lines=Software+Developer)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omjadav&label=Profile%20views&color=42A328&style=flat" alt="omjadav" /> </p>
 
