@@ -17,8 +17,6 @@
 
 - ⚒️Simple CRUD operations [CRUD-MERN](https://crud-mern-pi.vercel.app/)
 
-- 👨‍💻 All of my Repositories are available at [GitHub Repo](https://github.com/OmJadav?tab=repositories)
-
 - 📫 How to reach me **omjadav04@gmail.com**
 
 
