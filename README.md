@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Java DSA**
 
-- 🛒 ecommerce web app [GadgetHub](https://ecommerce-app-sage-ten.vercel.app/)
+- 💼 CareerPilot | Job tracking System [CareerPilot](https://careerpilot-coral.vercel.app)
 
-- 💼 Job portal web app [CareerLink](https://careerlink-seven.vercel.app/)
+- 🛒 ecommerce web app [GadgetHub](https://ecommerce-app-sage-ten.vercel.app/)
 
 - 🔭Hotel Booking Web App using MERN,Stripe [WanderStay](https://wander-stay-seven.vercel.app/)
 
